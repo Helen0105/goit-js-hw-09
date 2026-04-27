@@ -13,6 +13,7 @@ button.onclick = () => {
 
     li.querySelector('.delete-btn').onclick = () => {
         li.remove();
+        
     };
 
     contact.appendChild(li);
